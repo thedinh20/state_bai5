@@ -1,6 +1,7 @@
 #  Đinh Xuân Thế
 # MSV : 22810310390
 # Sử dụng : state
-# Ket qua :
+# Ket qua 
 
-![Uploading anh1.jpg…]()
+anh1.jpg
+
