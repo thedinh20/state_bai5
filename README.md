@@ -3,5 +3,5 @@
 # Sử dụng : state
 # Ket qua 
 
-anh1.jpg
+![Hinh anh 01 ](anh1.jpg)
 
